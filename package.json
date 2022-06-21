@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Sitio de prueba para despliegue",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MigueMat4/portfolio.git"
+  },
+  "keywords": [
+    "upload"
+  ],
+  "author": "Miguel Matul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MigueMat4/portfolio/issues"
+  },
+  "homepage": "https://github.com/MigueMat4/portfolio#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
